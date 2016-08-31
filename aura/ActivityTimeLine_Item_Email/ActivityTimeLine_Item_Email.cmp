@@ -8,7 +8,7 @@
       <div class="slds-media__body">
         <div class="slds-media slds-media--timeline slds-timeline__media--email">
           <div class="slds-media__figure">
-              <c:svg class="slds-icon slds-icon-standard-email slds-timeline__icon" xlinkHref="/resource/SLDS0120/assets/icons/standard-sprite/svg/symbols.svg#email">
+              <c:svg class="slds-icon slds-icon-standard-email slds-timeline__icon" xlinkHref="/resource/NLCSLDS001/assets/icons/standard-sprite/svg/symbols.svg#email">
     		</c:svg>
           </div>
           

@@ -9,8 +9,8 @@
     <!-- standard page markup -->
     <div class="slds-page-header" role="banner">
             
-        <p class="slds-text-heading--label">CHARLES O'NEILL</p>
-        <div class="slds-text-heading--large">Timeline Demo Application</div>
+        <p class="slds-text-heading--label">{!v.recordName</p>
+        <div class="slds-text-heading--large">Activity</div>
             
         <div class="slds-form--inline">
             

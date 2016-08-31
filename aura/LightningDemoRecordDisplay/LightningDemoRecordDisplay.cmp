@@ -21,7 +21,7 @@
            
             <!-- otherwise show the record -->
             <aura:set attribute="else">
- 				<p class="slds-text-heading--label">EXAMPLE RECORD</p>
+ 				<p class="slds-text-heading--label">{!v.recordName}</p>
             	<force:recordView recordId="{!v.recordId}" type="MINI"></force:recordView>            
             </aura:set>
             

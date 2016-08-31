@@ -8,7 +8,7 @@
             
             
           <div class="slds-dropdown-trigger">  
-          <button class="slds-button slds-button--icon-border-filled"><c:svg class="slds-button__icon" xlinkHref="/resource/SLDS0120/assets/icons/utility-sprite/svg/symbols.svg#switch">
+          <button class="slds-button slds-button--icon-border-filled"><c:svg class="slds-button__icon" xlinkHref="/resource/NLCSLDS001/assets/icons/utility-sprite/svg/symbols.svg#switch">
     			</c:svg>
             <span class="slds-assistive-text">Switch</span>
           </button>
